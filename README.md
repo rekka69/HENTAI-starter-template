@@ -193,8 +193,8 @@ CREATE TABLE messages (
 | Command                   | Description                              |
 |-------------------------- |------------------------------------------|
 | `bun turbo dev`           | Run all apps in dev mode (via Turbo)     |
-| `bun build`               | Build all apps                           |
-| `bun lint`                | Lint all apps and packages               |
+| `bun turbo build`         | Build all apps                           |
+| `bun turbo lint`          | Lint all apps and packages               |
 | `bun ui add <component>`  | Adds shadcn components                   |
 | `bun --filter=web dev`    | Run the frontend                         |
 | `bun --filter=api dev`    | Run the backend                          |
