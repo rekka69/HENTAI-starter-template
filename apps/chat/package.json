@@ -1,0 +1,11 @@
+{
+  "name": "chat",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "docker compose up -d --build --pull never",
+    "build": "echo 'Add build script here'",
+    "test": "echo 'Add test script here'",
+    "lint": "echo 'Add lint script here'"
+  }
+}
