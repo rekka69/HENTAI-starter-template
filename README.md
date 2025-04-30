@@ -207,7 +207,6 @@ CREATE TABLE messages (
 MIT License.
 
 ---
----
 
 ## 👋 Contributing
 
