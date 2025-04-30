@@ -217,4 +217,3 @@ Pull requests welcome. If you're interested in expanding the stack to include:
 - WebRTC for voice/video?
 
 Open an issue and let’s collaborate!
-```
